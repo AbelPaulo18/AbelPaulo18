@@ -5,15 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abelpaulo18&label=Profile%20views&color=0e75b6&style=flat" alt="abelpaulo18" /> </p>
 
-- 🔭 I’m currently working on **easy**
+- 🌱 I’m currently learning **azure advanced concepts**
 
-- 🌱 I’m currently learning **Swift**
-
-- 💬 Ask me about **react native, nodejs**
+- 💬 Ask me about **react native, react, nextjs, azure, nodejs**
 
 - 📫 How to reach me **abelpaulo.2218@gmail.com** or **abelluzemba2218@gmail.com**
 
-- ⚡ Fun fact **I thinks I am very funny**
+- ⚡ Fun fact **I think I am very funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
