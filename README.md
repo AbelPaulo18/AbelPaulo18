@@ -1,6 +1,6 @@
 ![MasterHead](https://philna.sh/assets/posts/react-738ca5dd60ecf11214419e9d6c847d1e2e4ad88c3f147e12d8adfd25b76e6e66.gif)
 <h1 align="center">Hi 👋, I'm Abel Luzemba</h1>
-<h3 align="center">A passionate fullStack developer from Angola</h3>
+<h3 align="center">A passionate fullStack developer 🤓👌</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abelpaulo18&label=Profile%20views&color=0e75b6&style=flat" alt="abelpaulo18" /> </p>
