@@ -9,7 +9,7 @@
 
 - 📫 How to reach me  **abelluzemba2218@gmail.com**
 
-- ⚡ Fun fact **I think I am very funny**
+- 🌟 Advice, **If you don't have a pet, get one Imediatelly!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
